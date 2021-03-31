@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 
-main()
+int main(int argc, char * argv[])
 {
 	printf("Hello, world\n");
+	retutn 0;
 }
 
